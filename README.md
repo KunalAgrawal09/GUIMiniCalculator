@@ -10,8 +10,8 @@ A lightweight Graphical User Interface (GUI) calculator built using Java Core (A
 ➗ Division
 
 # Features
-  ✔ Simple & Intuitive UI – Easy-to-use interface with buttons and display.\n
-  ✔ Real-time Calculation – Instantly computes results on button press.\n
+  ✔ Simple & Intuitive UI – Easy-to-use interface with buttons and display
+  ✔ Real-time Calculation – Instantly computes results on button press
   ✔ Lightweight – Pure Java (no external dependencies).
 
 # How to Run
